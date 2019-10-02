@@ -1,1 +1,4 @@
-Meu primeiro GIT
+Meu primeiro GIT.
+Ana entrou aqui.
+Ana fez alterações aqui.
+Ana mandou beijos.
