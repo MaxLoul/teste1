@@ -1,0 +1,3 @@
+- Poderia ser desgastante ter de ficar fazendo download a todo momento de variadas versões de arquivos e isso poderia levar tempo.
+
+- Também é necessario que se tenha os arquivos e alcança-los requer que se tenha o acesso a plataforma e para isso use o login e a  senha do serviço de rede.
